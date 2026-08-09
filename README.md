@@ -1,4 +1,5 @@
 <div align="left">
+  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&weight=500&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Wake+up,+Prakhar...;The+Matrix+has+you...;Follow+the+white+rabbit." alt="Matrix Typing SVG" />
   <h1>Hi there! I'm Prakhar 👋</h1>
 </div>
 
@@ -61,7 +62,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
-<img data-importer="snake" src="https://raw.githubusercontent.com/PrakharMahaur/PrakharMahaur/snake-output/snake.svg" alt="Snake animation" />
 
 
 ### ✍️ Random Dev Quote
